@@ -1,0 +1,23 @@
+{
+  "name": "super-umbrella",
+  "version": "1.0.0",
+  "description": "superb umbrellas",
+  "scripts": {
+    "start": "parcel index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajr-zimmer/super-umbrella.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajr-zimmer/super-umbrella/issues"
+  },
+  "homepage": "https://github.com/ajr-zimmer/super-umbrella#readme",
+  "dependencies": {
+    "parcel-bundler": "^1.9.7"
+  }
+}
