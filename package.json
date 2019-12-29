@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/ajr-zimmer/super-umbrella#readme",
   "dependencies": {
-    "parcel-bundler": "^1.9.7"
+    "parcel-bundler": "^1.12.4"
   },
   "prettier": {
     "singleQuote": true
